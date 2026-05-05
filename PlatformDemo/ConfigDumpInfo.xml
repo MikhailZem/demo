@@ -153,12 +153,12 @@
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.ObjectModule" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.0" configVersion="d40147c789e47140b83aabde5c0fe57600000000"/>
 		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="f21236635c82ce41b499b04b460e2e0400000000"/>
 		<Metadata name="Catalog.Регионы.Help" id="2ce6a72f-d84f-4911-b820-dada3614149e.1" configVersion="bfb98179e132334ea84a59a8dfdf259e00000000"/>
-		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="84eeb1555b98eb49b48da1ce4732a53300000000">
+		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="53eb013a15ca72428fac21da2bee3ac800000000">
 			<Metadata name="Catalog.Склады.Attribute.НеИспользовать" id="288a5829-afa5-43f8-b4af-55ef922cce16"/>
 		</Metadata>
 		<Metadata name="Catalog.Склады.Help" id="60a6f9a9-2886-4126-8867-57019f80c8c2.1" configVersion="98d59adea788cd4ebc6ad513d07dace700000000"/>
 		<Metadata name="Catalog.Склады.ManagerModule" id="60a6f9a9-2886-4126-8867-57019f80c8c2.3" configVersion="08f762c0a712034b9d37da689938044000000000"/>
-		<Metadata name="Catalog.Склады.ObjectModule" id="60a6f9a9-2886-4126-8867-57019f80c8c2.0" configVersion="0aa99396bc9efe438d6b2e543684f79700000000"/>
+		<Metadata name="Catalog.Склады.ObjectModule" id="60a6f9a9-2886-4126-8867-57019f80c8c2.0" configVersion="15b0e6b08f88ed45ae9cbe29a193d3b300000000"/>
 		<Metadata name="Catalog.Товары" id="5a77ed34-389a-45e7-85f4-1a2a7b95fd80" configVersion="825c4580a02a12478c23ae51a0c15f2e00000000">
 			<Metadata name="Catalog.Товары.Command.ЗаписатьNFCМетку" id="033530c0-134a-4d4e-8b2d-c03852480e4b"/>
 			<Metadata name="Catalog.Товары.Command.ПечатьШтрихкода" id="5aef3ef2-d583-4522-a725-e888136b696a"/>
